@@ -1,0 +1,6 @@
+{
+  "name": "Cẩm Nang Quản Lý & Xây Dựng Discord Server",
+  "description": "Cổng thông tin và cẩm nang chuyên sâu về xây dựng kiến trúc kênh, phân quyền vai trò (Role Hierarchy), bảo mật phòng chống Raid, tích hợp Bot và quản trị cộng đồng Discord Server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
